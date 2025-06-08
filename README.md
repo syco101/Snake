@@ -3,7 +3,6 @@
 Dieses Projekt ist eine moderne Web-Umsetzung des klassischen Snake-Spiels.  
 Es bietet alle Grundfunktionen – von Bewegung und Kollision bis High-Score – und verpackt sie in eine ansprechende, responsive Oberfläche mit flüssigen Animationen.
 
----
 
 ## 🎮 **Features**
 
@@ -15,7 +14,6 @@ Es bietet alle Grundfunktionen – von Bewegung und Kollision bis High-Score –
 - Responsives Glas-Morphism-Design (Desktop & Mobile)  
 - Restart-Button und Enter-Shortcut  
 
----
 
 ## ⚙️ **Steuerung**
 
@@ -23,7 +21,6 @@ Es bietet alle Grundfunktionen – von Bewegung und Kollision bis High-Score –
 - **Swipe (Mobile):** Richtung wechseln  
 - **Enter / 🔄-Button:** Spiel neu starten  
 
----
 
 ## 💡 **Projektstruktur**
 
@@ -32,7 +29,6 @@ Es bietet alle Grundfunktionen – von Bewegung und Kollision bis High-Score –
 - `app.js` – Game-Loop, Logik, Rendering  
 - `assets/` – Icons / Favicon  
  
----
 
 ## 🛠️ **Verwendete Technologien**
 
@@ -40,7 +36,6 @@ Es bietet alle Grundfunktionen – von Bewegung und Kollision bis High-Score –
 - CSS  
 - JavaScript
 
----
 
 ## 🧠 **Reflexion**
 
