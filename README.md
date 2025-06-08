@@ -10,15 +10,14 @@ Es bietet alle Grundfunktionen – von Bewegung und Kollision bis High-Score –
 - Steigende Geschwindigkeit nach jedem gefressenen Apfel  
 - High-Score-Speicherung in `localStorage`  
 - Glow-Äpfel mit Partikeleffekt und Floating-Points  
-- Weiche Segment-Bewegung dank Interpolation (`requestAnimationFrame`)  
-- Responsives Glas-Morphism-Design (Desktop & Mobile)  
+- Responsives Glas-Morphism-Design   
 - Restart-Button und Enter-Shortcut  
 
 
 ## ⚙️ **Steuerung**
 
 - **Pfeiltasten / W A S D:** Schlange steuern  
-- **Swipe (Mobile):** Richtung wechseln  
+- **Swipe (Mobile):** Richtung wechseln  (Geht noch nicht ganz)
 - **Enter / 🔄-Button:** Spiel neu starten  
 
 
@@ -27,7 +26,6 @@ Es bietet alle Grundfunktionen – von Bewegung und Kollision bis High-Score –
 - `index.html` – Grundgerüst mit Canvas & UI  
 - `style.css` – Glas-Look, Animations-Keyframes  
 - `app.js` – Game-Loop, Logik, Rendering  
-- `assets/` – Icons / Favicon  
  
 
 ## 🛠️ **Verwendete Technologien**
