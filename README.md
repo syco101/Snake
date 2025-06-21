@@ -23,10 +23,7 @@ Es bietet alle Grundfunktionen – von Bewegung und Kollision bis High-Score –
 
 ## 💡 **Projektstruktur**
 
-- `index.html` – Grundgerüst mit Canvas & UI  
-- `style.css` – Glas-Look, Animations-Keyframes  
-- `app.js` – Game-Loop, Logik, Rendering  
- 
+- `index.html` – Grundgerüst mit Canvas & UI, Game-Loop, Logik, Rendering, Glas-Look, Animations-Keyframes 
 
 ## 🛠️ **Verwendete Technologien**
 
